@@ -12,6 +12,7 @@ int main(void) {
        if(s[i] == ' ' && s[i+1] != '\0') {
         printf("%c", toupper(s[i + 1]));
    
+        //im not sure what this program does
        }
    }
    printf("\n");
